@@ -1,0 +1,2 @@
+Node.js makes file operations simple.
+This is the original content.
